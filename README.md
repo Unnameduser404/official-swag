@@ -19,6 +19,7 @@ Welcome to Official Swag—the ultimate directory of official merchandise shops 
 * [Equinix Company Store](https://store.equinix.com/ "Equinix Company Store")
 * [Equinix Metal](https://shop.equinixmetal.com/ "Equinix Metal")
 * [Elastic Online Merchandise Store](https://store.ecompanystore.com/elastic/Shop/#/ "Elastic Online Merchandise Store")
+* [Fujitsu Airstage Merch store](https://fgastore.merchorders.com/ "Fujitsu Airstage")
 * [The Figma Store](https://store.figma.com/ "The Figma Store")
 * [Fintech Open Source (FINOS) Foundation Store](https://store-finos.myshopify.com/ "Fintech Open Source (FINOS) Foundation Store")
 * [Forem Shop](https://shop.forem.com/ "Forem Shop")
